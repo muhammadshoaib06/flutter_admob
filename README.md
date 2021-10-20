@@ -1,6 +1,8 @@
 # flutter_admob
 
-A new Flutter project.
+Integrating Google Mobile Ads SDK into a Flutter app, which you will do here, is the first step towards displaying AdMob ads and earning revenue. Once the integration is complete, you can choose an ad format to get detailed implementation steps.
+
+The Google Mobile Ads SDK for Flutter currently supports loading and displaying banner, interstitial (full-screen), native ads, and rewarded video ads.
 
 ## Getting Started
 
